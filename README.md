@@ -1,7 +1,7 @@
-# DockerProjects
+# Docker EXPERIMENTS
 
-🐳 My-Docker-Dockyard ⚓
-Welcome to My-Docker-Dockyard! 🌊 This repository is my personal dockyard of containerized wonders, where I experiment with Docker to create powerful, scalable, and efficient applications. 🛠️💡 Below is a summary of each project, along with a direct link to explore more. 🚀
+🐳 My-Docker-Experiments ⚓
+Welcome to My-Docker-Experiments! 🌊 This repository is my personal docker space  of containerized wonders, where I experiment with Docker to create powerful, scalable, and efficient applications. 🛠️💡 Below is a summary of each project, along with a direct link to explore more. 🚀
 
 📦 Containerization Concepts Aboard:
 1. Dockerized Streamlit Development Environment 📊
