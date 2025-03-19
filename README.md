@@ -1,7 +1,8 @@
-# Docker EXPERIMENTS
+# DOCKER EXPERIMENTS
 
 🐳 My-Docker-Experiments ⚓
-Welcome to My-Docker-Experiments! 🌊 This repository is my personal docker space  of containerized wonders, where I experiment with Docker to create powerful, scalable, and efficient applications. 🛠️💡 Below is a summary of each project, along with a direct link to explore more. 🚀
+Welcome to My-Docker-Experiments! 
+🌊 This repository is my personal docker space  of containerized wonders, where I experiment with Docker to create powerful, scalable, and efficient applications. 🛠️💡 Below is a summary of each project, along with a direct link to explore more. 🚀
 
 📦 Containerization Concepts Aboard:
 1. Dockerized Streamlit Development Environment 📊
@@ -34,7 +35,7 @@ Key Focus: Load balancing, service discovery, and distributed applications.
 10. Running a Streamlit App in Docker on AWS EC2 ☁️
 Goal: Deploy a Streamlit application inside a Docker container on an AWS EC2 instance.
 Key Focus: Cloud deployment, networking, and containerized application hosting.
-🌊 Why This Dockyard? ⚓
+🌊 Why This DockerExp? ⚓
 This repository is my adventure in containerization, where I explore the depths of Docker’s potential! 🛠️💡
 
 Goal: To master containerized applications, networking, storage, and deployments in real-world scenarios.
