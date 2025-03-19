@@ -1,0 +1,28 @@
+services:
+  backend-service:
+    image: localhost:5001/backend-service
+    deploy:
+      replicas: 2
+      restart_policy:
+        condition: on-failure
+    networks:
+      - app-network
+    ports:
+      - "5000:5000"
+
+  api-gateway:
+    image: localhost:5001/api-gateway
+    deploy:
+      replicas: 2
+      restart_policy:
+        condition: on-failure
+    networks:
+      - app-network
+    ports:
+      - "8080:8080"
+    depends_on:
+      - backend-service
+
+networks:
+  app-network:
+    driver: overlay
